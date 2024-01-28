@@ -1,2 +1,7 @@
-# ReportVi-IR-based_chatbot_system
-A project has been created by MinhNguyenDS
+# IR-based chatbot system
+## Interface 
+![interface](docs/Interface.png)
+## Interaction
+![interaction](docs/Userflow.png)
+## Architecture overview
+![overview](docs/Overview.png)
