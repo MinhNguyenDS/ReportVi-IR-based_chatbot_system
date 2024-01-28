@@ -1,0 +1,17 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+openai
+faiss-cpu
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
+numpy
+translate
+tensorflow
+opencv-python
+open_clip
+db-sqlite3
+faiss
+pillow
